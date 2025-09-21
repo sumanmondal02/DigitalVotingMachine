@@ -1,0 +1,9 @@
+# Candidates Database
+# Format: ID:NAME:PARTY
+# Add candidates through the admin panel
+
+84784728:Narendra Modi:BJP
+3456789:Rahul Gandhi:INC
+I76456879:Mamta Banerjee:AITC
+98765678:Nithin Gadkari:BJP
+8765432:Kireeti:BRS

@@ -1,0 +1,50 @@
+# Activity Log for Digital Voting System
+# Format: TIMESTAMP:ACTION:USER:DETAILS
+
+2025-09-18T20:22:59.364943:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-18T20:23:46.917561:SECURITY_ADMIN_AUTH_SUCCESS:admin:Admin authentication successful
+2025-09-18T20:23:46.91824:LOGIN:admin:Successful ADMIN login
+2025-09-18T20:23:51.604828:DATA_CLEAR:SYSTEM:All voting data cleared for new session
+2025-09-18T20:23:51.605353:SESSION_START:admin:Voting session started
+2025-09-18T20:24:16.020996:CANDIDATE_ADD:admin:Added candidate: Narendra Modi (BJP)
+2025-09-18T20:24:37.17643:CANDIDATE_ADD:admin:Added candidate: Rahul Gandhi (INC)
+2025-09-18T20:25:31.829615:CANDIDATE_ADD:admin:Added candidate: Mamta Banerjee (AITC)
+2025-09-18T20:25:44.209559:SESSION_STOP:admin:Voting session stopped
+2025-09-18T20:26:05.415356:CANDIDATE_ADD:admin:Added candidate: Nithin Gadkari (BJP)
+2025-09-18T20:26:12.780871:DATA_CLEAR:SYSTEM:All voting data cleared for new session
+2025-09-18T20:26:12.781608:SESSION_START:admin:Voting session started
+2025-09-18T20:26:17.343937:LOGOUT:admin:User logged out
+2025-09-18T20:26:17.344652:SECURITY_SESSION_END:admin:User session ended
+2025-09-18T20:30:10.434728:STATE_SAVE:SYSTEM:System state saved successfully
+2025-09-18T20:30:16.188825:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-18T20:30:24.63651:SECURITY_ADMIN_AUTH_SUCCESS:admin:Admin authentication successful
+2025-09-18T20:30:24.637574:LOGIN:admin:Successful ADMIN login
+2025-09-18T20:30:43.4913:LOGOUT:admin:User logged out
+2025-09-18T20:30:43.491994:SECURITY_SESSION_END:admin:User session ended
+2025-09-18T20:48:12.287539:STATE_SAVE:SYSTEM:System state saved successfully
+2025-09-18T20:49:54.579967:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-18T20:50:01.997341:SECURITY_ADMIN_AUTH_FAILURE:789:Invalid credentials provided
+2025-09-18T22:20:09.122653:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-18T22:20:34.965193:SECURITY_ADMIN_AUTH_SUCCESS:admin:Admin authentication successful
+2025-09-18T22:20:34.96595:LOGIN:admin:Successful ADMIN login
+2025-09-18T22:20:39.527979:SESSION_STOP:admin:Voting session stopped
+2025-09-18T22:20:50.757991:DATA_CLEAR:SYSTEM:All voting data cleared for new session
+2025-09-18T22:20:50.758711:SESSION_START:admin:Voting session started
+2025-09-18T22:20:54.210953:LOGOUT:admin:User logged out
+2025-09-18T22:20:54.211846:SECURITY_SESSION_END:admin:User session ended
+2025-09-18T23:41:14.224061:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-18T23:41:24.628439:SECURITY_ADMIN_AUTH_SUCCESS:admin:Admin authentication successful
+2025-09-18T23:41:24.629206:LOGIN:admin:Successful ADMIN login
+2025-09-18T23:41:25.688807:LOGOUT:admin:User logged out
+2025-09-18T23:41:25.689135:SECURITY_SESSION_END:admin:User session ended
+2025-09-18T23:41:26.621408:STATE_SAVE:SYSTEM:System state saved successfully
+2025-09-19T20:40:54.03588:SYSTEM_INIT:SYSTEM:DataManager initialized successfully
+2025-09-19T20:41:07.051631:SECURITY_ADMIN_AUTH_SUCCESS:admin:Admin authentication successful
+2025-09-19T20:41:07.052373:LOGIN:admin:Successful ADMIN login
+2025-09-19T20:41:47.501352:CANDIDATE_ADD:admin:Added candidate: Kireeti (BRS)
+2025-09-19T20:41:51.092615:SESSION_STOP:admin:Voting session stopped
+2025-09-19T20:41:53.925751:DATA_CLEAR:SYSTEM:All voting data cleared for new session
+2025-09-19T20:41:53.926364:SESSION_START:admin:Voting session started
+2025-09-19T20:42:34.080421:LOGOUT:admin:User logged out
+2025-09-19T20:42:34.08132:SECURITY_SESSION_END:admin:User session ended
+2025-09-19T20:42:42.025271:STATE_SAVE:SYSTEM:System state saved successfully

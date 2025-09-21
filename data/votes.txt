@@ -1,0 +1,4 @@
+# Vote Records
+# Format: TIMESTAMP:VOTER_HASH:CANDIDATE_ID
+# Voter identity is hashed for anonymity
+
